@@ -81,5 +81,17 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Citation
 
-If you use this dataset or code in your research, please cite it using the Zenodo DOI provided after publication.
+If you use this dataset or code in your research, please cite it using the Zenodo DOI provided below:
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15301195.svg)](https://doi.org/10.5281/zenodo.15301195)
+
+```bibtex
+@misc{yourname_bipv_facades_2024,
+  author       = {Your Name},
+  title        = {BIPV Facades Dataset},
+  year         = 2024,
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15301195},
+  url          = {https://doi.org/10.5281/zenodo.15301195}
+}
+```
