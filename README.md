@@ -87,7 +87,7 @@ If you use this dataset or code in your research, please cite it using the Zenod
 
 ```bibtex
 @misc{duran_bipv_facades_2024,
-  author       = {Ayca Duran and Kai Marti and Pedram Mirabian and Christoph Waibel and Arno Schlueter},,
+  author       = {Ayca Duran and Kai Marti and Pedram Mirabian and Christoph Waibel and Arno Schlueter},
   title        = {BIPV Facades Dataset},
   year         = 2025,
   publisher    = {Zenodo},
