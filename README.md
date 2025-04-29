@@ -73,3 +73,13 @@ By using this dataset, users agree to respect these anonymization measures and u
 
 ```bash
 pip install -r requirements.txt
+```
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Citation
+
+If you use this dataset or code in your research, please cite it using the Zenodo DOI provided after publication.
+
