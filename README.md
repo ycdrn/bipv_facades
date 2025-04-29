@@ -1,6 +1,7 @@
 # BIPV Facades Dataset
 
-This repository contains a dataset of 400 architectural projects that feature Building-Integrated Photovoltaic (BIPV) Facades. An exploratory data analysis  of a curated dataset on BIPV facade projects is also available.  
+This repository contains a dataset of 400 architectural projects that feature Building-Integrated Photovoltaic (BIPV) Facades. A python notebook is also available for the exploratory data analysis of the curated dataset.  
+
 The goal is to better understand the characteristics, geographical distribution, and temporal evolution of BIPV facades.
 
 ---
