@@ -86,10 +86,10 @@ If you use this dataset or code in your research, please cite it using the Zenod
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15301195.svg)](https://doi.org/10.5281/zenodo.15301195)
 
 ```bibtex
-@misc{yourname_bipv_facades_2024,
-  author       = {Your Name},
+@misc{duran_bipv_facades_2024,
+  author       = {Ayca Duran and Kai Marti and Pedram Mirabian and Christoph Waibel and Arno Schlueter},,
   title        = {BIPV Facades Dataset},
-  year         = 2024,
+  year         = 2025,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.15301195},
   url          = {https://doi.org/10.5281/zenodo.15301195}
